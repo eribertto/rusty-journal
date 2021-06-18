@@ -1,3 +1,6 @@
+// june 18/21 start in new branch regolith
+// to complete this exercise
+
 mod cli;
 use structopt::StructOpt;
 
