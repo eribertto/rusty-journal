@@ -1,4 +1,5 @@
 // define list_tasks function
+// this function reads the journal file and print the list of tasks, if there is any
 
 pub fn list_tasks(journal_path: PathBuf) -> Result<()> {
     // Open the file.
